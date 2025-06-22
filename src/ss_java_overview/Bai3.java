@@ -2,10 +2,9 @@ package ss_java_overview;
 
 import java.util.Scanner;
 
-/** Tính tiền
- *
+/**
+ *Tính tiền
  */
-
 public class Bai3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
