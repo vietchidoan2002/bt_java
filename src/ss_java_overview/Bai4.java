@@ -2,6 +2,9 @@ package ss_java_overview;
 
 import java.util.Scanner;
 
+/**
+ * Tìm điểm trung bình
+ */
 public class Bai4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
