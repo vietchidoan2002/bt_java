@@ -11,8 +11,10 @@ public class Bai11 {
 
         System.out.print("Nhập ngày: ");
         int day = scanner.nextInt();
+
         System.out.print("Nhập tháng: ");
         int month = scanner.nextInt();
+
         System.out.print("Nhập năm: ");
         int year = scanner.nextInt();
 

@@ -11,6 +11,7 @@ public class Bai8 {
 
         System.out.print("Nhập vào tháng: ");
         int month = scanner.nextInt();
+
         System.out.print("Nhập vào năm: ");
         int year = scanner.nextInt();
 
